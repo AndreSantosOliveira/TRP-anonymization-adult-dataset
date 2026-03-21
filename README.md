@@ -1,6 +1,6 @@
-# PET – Anonymization of Datasets with Privacy, Utility and Risk Analysis
+# TRP – Anonymization of Datasets with Privacy, Utility and Risk Analysis
 
-Projeto da UC **Tecnologias de Reforço da Privacidade (PET)**.
+Projeto da UC **Tecnologias de Reforço da Privacidade (TRP)**.
 
 ## 1. Objetivo do projeto
 
