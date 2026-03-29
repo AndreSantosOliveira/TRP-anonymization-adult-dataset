@@ -122,7 +122,6 @@ Incluem:
 │   └── results/
 └── presentation/
 
----
 
 ## 9. Reprodutibilidade
 
